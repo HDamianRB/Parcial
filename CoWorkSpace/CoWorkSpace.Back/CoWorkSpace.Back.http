@@ -1,0 +1,6 @@
+@CoWorkSpace.Back_HostAddress = http://localhost:5057
+
+GET {{CoWorkSpace.Back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
